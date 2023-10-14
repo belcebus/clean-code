@@ -75,12 +75,14 @@ O terceiro princípio do livro "Clean Code" de Robert C. Martin se concentra na 
 1. **Comentários descritivos**: Martin argumenta que os comentários no código devem ser usados com moderação e, quando usados, devem ser descritivos. Os comentários devem explicar por que algo está sendo feito no código, em vez de simplesmente repetir o que pode ser compreendido a partir do próprio código. É preferível que o código em si seja o mais claro e descritivo possível.
 
    Exemplo de comentário pouco útil:
+
    ```python
    # Soma dois números
    resultado = a + b
    ```
 
    Exemplo de comentário útil:
+
    ```python
    # Calcula o total de vendas para o trimestre atual
    total_vendas = calcular_vendas()
@@ -89,6 +91,7 @@ O terceiro princípio do livro "Clean Code" de Robert C. Martin se concentra na 
 2. **Documentação de funções e métodos**: É importante documentar as funções e métodos para que outros desenvolvedores (e você mesmo no futuro) saibam como usá-los e o que eles fazem. Essa documentação deve incluir uma breve descrição do propósito da função, os parâmetros que ela aceita (com explicações), o tipo de valor que retorna e exemplos de uso, se necessário. Padrões de documentação, como docstrings em Python, podem ser usados para isso.
 
    Exemplo de documentação de função:
+
    ```python
    def calcular_area(comprimento, largura):
        """
@@ -113,6 +116,7 @@ O terceiro princípio do livro "Clean Code" de Robert C. Martin se concentra na 
 4. **Definir exceções personalizadas**: Quando necessário lançar exceções, é recomendável definir exceções personalizadas para representar situações específicas que não são abrangidas pelas exceções padrão da linguagem. Isso torna o código mais legível e permite que os manipuladores de exceções saibam com precisão o que está acontecendo.
 
    Exemplo de exceção personalizada em Python:
+
    ```python
    class MinhaExcecaoPersonalizada(Exception):
        def __init__(self, mensagem):
