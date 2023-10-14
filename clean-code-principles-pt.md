@@ -1,4 +1,4 @@
-Certamente! Aqui estão as respostas em português do Brasil:
+# Clean code principles
 
 **Sobre o livro "Clean Code"**:
 "Clean Code: A Handbook of Agile Software Craftsmanship" é um livro escrito por Robert C. Martin, um autor e consultor influente no campo da programação e desenvolvimento de software. O livro foi publicado em 2008 e se tornou uma referência fundamental para programadores e desenvolvedores de software que desejam aprimorar suas habilidades de codificação e escrever código limpo e de fácil manutenção.

@@ -1,3 +1,5 @@
+# Clean code principles
+
 "Clean Code: A Handbook of Agile Software Craftsmanship" es un libro escrito por Robert C. Martin, un influyente autor y consultor en el campo de la programación y el desarrollo de software. El libro fue publicado en 2008 y se ha convertido en un recurso fundamental para programadores y desarrolladores de software que desean mejorar sus habilidades de codificación y escribir código limpio y mantenible.
 
 El objetivo principal de "Clean Code" es enseñar a los programadores a escribir código de alta calidad que sea fácil de entender, mantener y extender. El libro aborda principios y prácticas de programación que ayudan a reducir la complejidad y a producir un código más legible. Algunos de los temas clave que se tratan en el libro incluyen:
