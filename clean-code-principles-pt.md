@@ -112,7 +112,7 @@ controle simples. Aqui está uma explicação mais detalhada deste princípio:
      de um resultado e a geração de um relatório, é preferível dividir essas
      tarefas em funções separadas.
 
-2. **Um nível de abstração por função: Cada função deve manter um nível de
+2. **Um nível de abstração por função**: Cada função deve manter um nível de
    abstração uniforme. Isso significa que todas as instruções dentro de uma
    função devem estar no mesmo nível de detalhe e abstração. Não se deve
    misturar detalhes de baixo nível com abstrações de alto nível em uma única
