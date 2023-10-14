@@ -362,7 +362,7 @@ del código. Cuando se siguen las mejores prácticas de pruebas unitarias, los
 desarrolladores pueden identificar problemas más rápidamente, mantener un código
 más limpio y realizar cambios con mayor seguridad.
 
-##  Refactorización:
+##  Refactorización
 
 La refactorización es un concepto central en el libro "Clean Code" de Robert C.
 Martin y en el desarrollo de software en general. Se refiere a la práctica de

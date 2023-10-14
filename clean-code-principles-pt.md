@@ -35,7 +35,13 @@ incluem:
 6. **Refatoração**: Descreve a refatoração como um processo contínuo para
    melhorar a estrutura do código sem alterar sua funcionalidade.
 
-O "Clean Code" se tornou uma referência na comunidade de desenvolvimento de software e é amplamente recomendado para programadores que desejam aprimorar suas habilidades na escrita de código limpo e de alta qualidade. O livro é baseado em princípios de desenvolvimento ágil e enfoca a importância da artesanato de software, incentivando os desenvolvedores a serem mais do que apenas codificadores, a serem "artesãos de software" que se preocupam com a qualidade e o design de seu trabalho.
+O "Clean Code" se tornou uma referência na comunidade de desenvolvimento de
+software e é amplamente recomendado para programadores que desejam aprimorar
+suas habilidades na escrita de código limpo e de alta qualidade. O livro é
+baseado em princípios de desenvolvimento ágil e enfoca a importância da
+artesanato de software, incentivando os desenvolvedores a serem mais do que
+apenas codificadores, a serem "artesãos de software" que se preocupam com a
+qualidade e o design de seu trabalho.
 
 ## Significado descritivo
 
@@ -328,7 +334,7 @@ contexto de "Clean Code":
    refatorização, os testes devem ser executados novamente para garantir que
    nenhum erro tenha sido introduzido inadvertidamente.
 
-5. **Padrões de refatorização**: Existem padrões de refatorização bem 
+5. **Padrões de refatorização**: Existem padrões de refatorização bem
    stabelecidos que os desenvolvedores podem seguir. Alguns exemplos incluem o
    padrão "Extract Method" (Extração de Método), o padrão "Move Method" (Mover
    Método), o padrão "Replace Conditional with Polymorphism" (Substituir
