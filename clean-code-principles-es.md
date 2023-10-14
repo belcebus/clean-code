@@ -397,15 +397,33 @@ refactorización en el contexto de "Clean Code":
    control complicadas.
 
 4. **Pruebas unitarias**: La refactorización debe ir acompañada de pruebas
-unitarias. Antes de realizar una refactorización, es fundamental tener un
-conjunto sólido de pruebas unitarias que verifiquen que el código funciona
-correctamente. Después de la refactorización, se deben volver a ejecutar las
-pruebas para garantizar que no se hayan introducido errores inadvertidos.
+   unitarias. Antes de realizar una refactorización, es fundamental tener un
+   conjunto sólido de pruebas unitarias que verifiquen que el código funciona
+   correctamente. Después de la refactorización, se deben volver a ejecutar las
+   pruebas para garantizar que no se hayan introducido errores inadvertidos.
 
-5. **Patrones de refactorización**: Existen patrones de refactorización bien establecidos que los desarrolladores pueden seguir. Algunos ejemplos son el patrón Extract Method (Extraer Método), el patrón Move Method (Mover Método), el patrón Replace Conditional with Polymorphism (Sustituir Condicional por Polimorfismo) y muchos otros. Estos patrones ofrecen soluciones comunes a problemas comunes de diseño de código.
+5. **Patrones de refactorización**: Existen patrones de refactorización bien
+   establecidos que los desarrolladores pueden seguir. Algunos ejemplos son el
+   patrón Extract Method (Extraer Método), el patrón Move Method (Mover Método),
+   el patrón Replace Conditional with Polymorphism (Sustituir Condicional por
+   Polimorfismo) y muchos otros. Estos patrones ofrecen soluciones comunes a
+   problemas comunes de diseño de código.
 
-6. **Impacto en el mantenimiento del código**: La refactorización tiene un impacto significativo en la facilidad de mantenimiento del código a lo largo del tiempo. Un código más limpio y bien refactorizado es más fácil de entender, lo que facilita la colaboración entre desarrolladores y la identificación de problemas. También permite que el código se adapte más eficazmente a las cambiantes necesidades del proyecto.
+6. **Impacto en el mantenimiento del código**: La refactorización tiene un
+   impacto significativo en la facilidad de mantenimiento del código a lo largo
+   del tiempo. Un código más limpio y bien refactorizado es más fácil de
+   entender, lo que facilita la colaboración entre desarrolladores y la
+   identificación de problemas. También permite que el código se adapte más
+   eficazmente a las cambiantes necesidades del proyecto.
 
-7. **Comunicación en equipo**: La refactorización no es una actividad que debe realizarse en aislamiento. Es importante que los equipos de desarrollo comuniquen cuándo y por qué se está realizando una refactorización. La refactorización puede ser beneficiosa para el equipo en su conjunto al mejorar la calidad del código y hacer que el desarrollo sea más eficiente.
+7. **Comunicación en equipo**: La refactorización no es una actividad que debe
+   realizarse en aislamiento. Es importante que los equipos de desarrollo
+   comuniquen cuándo y por qué se está realizando una refactorización. La
+   refactorización puede ser beneficiosa para el equipo en su conjunto al
+   mejorar la calidad del código y hacer que el desarrollo sea más eficiente.
 
-La refactorización es una práctica esencial en el desarrollo de software que ayuda a mantener el código limpio y saludable a medida que evoluciona un proyecto. Al abordar la refactorización de manera regular y sistemática, los equipos de desarrollo pueden reducir la acumulación de deudas técnicas y mejorar la sostenibilidad a largo plazo de su código.
+La refactorización es una práctica esencial en el desarrollo de software que
+ayuda a mantener el código limpio y saludable a medida que evoluciona un
+proyecto. Al abordar la refactorización de manera regular y sistemática, los
+equipos de desarrollo pueden reducir la acumulación de deudas técnicas y mejorar
+la sostenibilidad a largo plazo de su código.
